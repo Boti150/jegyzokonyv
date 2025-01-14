@@ -32,3 +32,9 @@ Gyártási szám: 736014
 | 1.2     |2,67      | 12,136   |
 | 1.3     |2,68      | 12,181   |
 > A mérés során azt is észre vettem hogy 1,3V felett már nem változnak az értékek.
+
+---
+
+## A tranzisztoron átfolyó áramerősseg bemeneti függvényei:
+![Képernyőkép 2025-01-14 123923](https://github.com/user-attachments/assets/77e825a1-27ac-4eb9-856d-409d84687625)
+
