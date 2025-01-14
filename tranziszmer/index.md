@@ -19,18 +19,7 @@ Gyártási szám:  306E1ED
 Gyártási szám: 736014 
 ---
 ## Mérésből kapott eredmények:
-| Ube (V) | URc (V)  | I (mA)   |
-|---------|----------|----------|
-| 0       | 0        | 0,000    |
-| 0,5     | 0,002    | 0,009    |
-| 0,6     | 0,83     | 0,377    |
-| 0,7     | 0,7      | 3,181    |
-| 0,8     | 1,96     | 8,909    |
-| 0,9     | 2,6      | 11,818   |
-| 1       | 2,64     | 12       |
-| 1,1     | 2,66     | 12,090   |
-| 1,2     |2,67      | 12,136   |
-| 1,3     |2,68      | 12,181   |
+![Képernyőkép 2025-01-14 125147](https://github.com/user-attachments/assets/cf6b912e-687d-4892-bf23-e683f53ab06f)
 > A mérés során azt is észre vettem hogy 1,3V felett már nem változnak az értékek.
 
 ---
