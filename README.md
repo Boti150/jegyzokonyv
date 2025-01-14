@@ -1,1 +1,3 @@
 # Kollár Botond
+
+[tranzisztor vizsgálata]
