@@ -2,4 +2,4 @@
 
 [tranzisztor vizsgálata](https://boti150.github.io/jegyzokonyv/tranziszmer)
 
-[muveleti erosito]()
+[fesz koveto](https://github.com/Boti150/jegyzokonyv/tree/main/fesz%20koveto)
