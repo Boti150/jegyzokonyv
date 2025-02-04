@@ -14,12 +14,15 @@
 ---  
 
 ## Kapcsolás:  
-- Kapcsolási rajz az alábbi linken található:  https://www.falstad.com/circuit/e-amp-follower.html
 - Kapcsolási rajz megvalósítása:    ![fesz2](https://github.com/user-attachments/assets/65d5c4ad-f567-48f1-81dc-50314dea5f31)
-
 
 ---  
 
 ## Méréshez felhasznált műszerek:  
 -  Műszer neve:  NI myDAQ    
 -  Gyártási szám:  306E1ED  
+
+## A mérésből kapott eredmények:  
+-  Au=2011mV/999,71mV=20,16mV
+-  Au DB=20*lg20,16=26,08DB
+-  Au=1+1,470/1,468=1
