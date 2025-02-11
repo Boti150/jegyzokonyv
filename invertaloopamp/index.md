@@ -25,4 +25,4 @@
 -  Gyártási szám:  306E1ED
 
   ## A mérési értékek:  
-  - ![Képernyőkép 2025-02-11 121010](https://github.com/user-attachments/assets/a77ddcf4-5863-402d-b807-036682f9e955)
+   ![Képernyőkép 2025-02-11 121010](https://github.com/user-attachments/assets/a77ddcf4-5863-402d-b807-036682f9e955)
