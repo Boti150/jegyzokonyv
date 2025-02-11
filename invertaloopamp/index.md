@@ -1,4 +1,4 @@
-# Feszültségkövető mérés  
+# Invertáló erősítő mérés  
 ---  
 
 - Mérést végezte: Kollár Botond  
