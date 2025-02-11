@@ -9,7 +9,7 @@
 ---  
 
 ## A mérés célja:  
->   A mérés célja az volt, hogy meghatározzuk egy feszültségkövető áramkör működését és teljesítményét, miközben minimalizáljuk a mérőeszközök hatását az áramkörre. A feszültségkövető biztosítja, hogy a kimeneti feszültség a bemeneti feszültség pontos másolataként jelenjen meg, miközben nagy bemeneti impedanciát és alacsony kimeneti impedanciát biztosít, hogy ne zavarja meg az áramkör működését.    
+>  Az invertáló opamp mérés célja, hogy meghatározzuk az operációs erősítő működését és erősítési tulajdonságait, amikor az áramkörben visszacsatolást alkalmazunk. Az invertáló konfiguráció segítségével nemcsak az erősítés mértékét, hanem a fáziseltolást is mérhetjük, mivel az opamp kimeneti jele 180 fokkal eltolódik a bemeneti jellel szemben.
 
 ---  
 
