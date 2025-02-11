@@ -14,7 +14,8 @@
 ---  
 
 ## Kapcsolás:  
-- Kapcsolási rajz az alábbi linken található:  https://www.falstad.com/circuit/e-amp-invert.html
+- Kapcsolási rajz az alábbi linken található: ![IMG_6148](https://github.com/user-attachments/assets/f4b4cd18-7080-44fd-9abf-9784eb42f305)
+
 - Kapcsolási rajz megvalósítása:  ![IMG_6145](https://github.com/user-attachments/assets/a31f208d-086d-47a4-9b5a-7dc4c4d131d5)
 
 
@@ -26,3 +27,8 @@
 
   ## A mérési értékek:  
    ![Képernyőkép 2025-02-11 121010](https://github.com/user-attachments/assets/a77ddcf4-5863-402d-b807-036682f9e955)
+
+## A mérési eredmények:  
+-  Au = Uki/Ube= -Rv/Rbe = 1,0068
+-  Au = 990,09mV/1,002V = -1470/1460 = 1,0068
+-  Au = 20*lg(Au) = 0,58Db
