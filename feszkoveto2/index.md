@@ -1,4 +1,4 @@
-# Feszültségkövető mérés  
+# Nem invertáló  
 ---  
 
 - Mérést végezte: Kollár Botond  
