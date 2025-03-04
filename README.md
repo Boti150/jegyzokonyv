@@ -7,3 +7,5 @@
 [nem invertalo aram](https://github.com/Boti150/jegyzokonyv/blob/main/nem%20invertalo%20aram/index.md)
 
 [invertáló erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/invertaloopamp/index.md)
+
+[Alul felül áteresztő műveleti erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/alul_felul_atereszto/index.md)
