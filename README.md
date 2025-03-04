@@ -1,11 +1,11 @@
 # Kollár Botond
 
-[tranzisztor vizsgálata](https://boti150.github.io/jegyzokonyv/tranziszmer)
+[Tranzisztor vizsgálata](https://boti150.github.io/jegyzokonyv/tranziszmer)
 
-[fesz koveto](https://github.com/Boti150/jegyzokonyv/tree/main/fesz%20koveto)
+[Fesz koveto](https://github.com/Boti150/jegyzokonyv/tree/main/fesz%20koveto)
 
-[nem invertalo aram](https://github.com/Boti150/jegyzokonyv/blob/main/nem%20invertalo%20aram/index.md)
+[Nem invertalo áram](https://github.com/Boti150/jegyzokonyv/blob/main/nem%20invertalo%20aram/index.md)
 
-[invertáló erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/invertaloopamp/index.md)
+[Invertáló erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/invertaloopamp/index.md)
 
 [Alul felül áteresztő műveleti erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/alul_felul_atereszto/index.md)
