@@ -1,4 +1,4 @@
-# Nem invertáló  
+# Nem invertáló áram
 ---  
 
 - Mérést végezte: Kollár Botond  
