@@ -11,3 +11,5 @@
 [Alul felül áteresztő műveleti erősítő](https://github.com/Boti150/jegyzokonyv/blob/main/alul_felul_atereszto/index.md)
 
 [Monostabil Multivibrátor](https://github.com/Boti150/jegyzokonyv/blob/main/monostabil_mult/index.md)
+
+[Bistabil Multivibrátor](https://github.com/Boti150/jegyzokonyv/blob/main/bistabil_multi/index.md)
